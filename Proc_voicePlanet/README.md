@@ -1,3 +1,3 @@
 This was a Processing experiment from the first time I played with vertex deformation and procedural meshes. The microphone should pick up some sound and create pulsing craters in the mesh. I think that I had also intended to use the current state of the mesh to generate some sound in response, but that's largely unimplemented.
 
-![definitions](http://mfadt.parsons.edu/2015/wp-content/uploads/projects/164_img_03.jpg)
+![moon](https://raw.githubusercontent.com/whoisbma/for_LP/master/Proc_voicePlanet/1066.png?token=ACJNuVQ2Zc5GPODZs7mYXjg7YtmXbDlHks5XccYuwA%3D%3D)
