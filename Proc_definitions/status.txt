@@ -1,0 +1,45 @@
+2
+13
+/c/en/person
+/c/en/get_weapon
+false
+12
+0
+1
+1
+1
+0
+0
+1
+6
+0
+3
+8
+12
+12
+/c/en/crowd
+/c/en/many_person
+/c/en/dishonest
+/c/en/clinton
+/c/en/president
+/c/en/govern_country
+/c/en/politician
+/c/en/lie
+/c/en/commit_perjury
+/c/en/go_to_jail
+/c/en/kill
+/c/en/get_weapon
+/c/en/obstruct_justice
+crowd
+many person
+dishonest
+clinton
+president
+govern country
+politician
+lie
+commit perjury
+go to jail
+kill
+get weapon
+obstruct justice
