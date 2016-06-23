@@ -11,7 +11,7 @@ Access the JSON served by the API at
 
 There are minor errors that pop up in the client and it is basically boilerplate bootstrap and basic Angular but the pipeline works, API requests work as they are intended to, etc.
 
-Needs an npm install if downloaded.
+Needs an npm install, xcode project etc. if downloaded.
 
 For the OF client side app, extremely quick and dirty: just uses a few vectors of structs to store state grabbed from JSON.
 
