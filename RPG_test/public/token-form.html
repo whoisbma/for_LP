@@ -1,0 +1,21 @@
+<div class="row" ng-hide="token.ID">
+  <div class="col-md-6">
+      <h2>Create new token</h2>
+  </div>
+</div>
+<div class="container">
+  <div>
+    <p>
+      <label>ID (don't change if editing existing token, required if new token)</label> 
+      <input id="name" class="form-control" type="text" ng-model="token.id" required> 
+    </p>
+    <p>
+      <label>Contents (required)</label> 
+      <input id="name" class="form-control" type="text" ng-model="token.contents" required> 
+    </p>
+    <p>
+      <button style="margin-top:20px" class="btn btn-default" ng-click="saveToken(token)">Save</button>
+      <button style="margin-top:20px" class="btn btn-default" ng-click="back()">Back</button>
+    </p>
+  </div>
+</div>
