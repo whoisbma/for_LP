@@ -13,5 +13,7 @@ Most of the Angular code came from a mongoDB API tutorial I had used previously.
 
 Needs an npm install if downloaded.
 
-Youtube documentation: 
+For the OF client side app, extremely quick and dirty. Just uses a few structs to store state grabbed from JSON. Purely proof of concept.
+
+Video documentation here: 
 [https://www.youtube.com/watch?v=ROW0qfDISVs&feature=youtu.be](https://www.youtube.com/watch?v=ROW0qfDISVs&feature=youtu.be)
