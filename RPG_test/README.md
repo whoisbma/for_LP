@@ -9,9 +9,7 @@ Access the JSON served by the API at
 - [/data/questions/--questionID--](https://rpg-server-lp.herokuapp.com/data/questions/0)
 - [/data/tokens/--tokenID--](https://rpg-server-lp.herokuapp.com/data/tokens/0)
 
-There are minor errors that pop up in the client and it is basically boilerplate bootstrap but the pipeline works, API requests work as they are intended to, etc.
-
-Much of the Angular code came from a mongoDB API tutorial I had used previously.
+There are minor errors that pop up in the client and it is basically boilerplate bootstrap and basic Angular but the pipeline works, API requests work as they are intended to, etc.
 
 Needs an npm install if downloaded.
 
