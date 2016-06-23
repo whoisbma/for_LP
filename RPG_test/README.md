@@ -10,3 +10,5 @@ Access the JSON served by the API at
 There are definitely some errors that pop up in the client and it is basically boilerplate bootstrap but the pipeline works, API requests work etc.
 
 Most of the Angular code came from a mongoDB API tutorial I had used previously.
+
+Needs an npm install if downloaded.
